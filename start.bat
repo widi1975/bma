@@ -1,0 +1,1 @@
+phonegab serve listening on 192.168.0.3:3000
